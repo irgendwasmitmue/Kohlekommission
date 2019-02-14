@@ -1,0 +1,46 @@
+id,name,type,party,age,sex
+Platz,Matthias Platzeck,1,11,5,0
+Pof,Ronald Pofalla,1,9,4,0
+Prae,Barbara Praetorius,1,4,NA,1
+Till,Stanislaw Tillich,1,9,4,0
+Hassel,Gerda Hasselfeldt,1,10,5,1
+Kamp,Steffen Kampeter,1,9,3,0
+Kapf,Stefan Kapferer,1,NA,3,0
+Kem,Dieter Kempf,1,10,4,0
+Nem,Claudia Nemat,1,NA,3,1
+Reich,"Katherina Reiche
+",1,9,2,1
+Roe,Gunda Roestel,1,NA,4,1
+Schwei,Eric Schweitzer,1,NA,3,0
+Groth,Antje Grothus,1,NA,3,1
+Wod,Hannelore Wodtke,1,9,NA,1
+Hern,Christine Herntier,1,NA,4,1
+Kreuz,Michael Kreuzberg,1,9,4,0
+Prig,Reiner Priggen,1,12,5,0
+Vass,Michael Vassiliadis,1,11,3,0
+Scheid,Andreas Scheidt,1,11,3,0
+Koerz,Stefan Körzell,1,11,3,0
+Kais,Martin Kaiser,1,NA,3,0
+Weig,Hubert Weiger,1,9,5,0
+Nieb,Kai Niebert,1,NA,1,0
+Allem,Jutta Allemendinger ,1,NA,3,1
+Matt,Felix Matthes,1,NA,4,0
+Schelln,Hans Joachim Schellnhuber,1,NA,5,0
+"Nieb
+",Annekathrin Niebuhr ,1,NA,NA,1
+Wehr,Ralf Wehrspohn,1,NA,2,0
+Laem,Andreas Laemmel,1,9,4,0
+Lenz,Andreas Lenz,1,10,1,0
+Miersch,Matthias Miersch,1,11,2,0
+Politik,Politik,0,NA,NA,NA
+Verband,Verband,0,NA,NA,NA
+Gewerkschaft,Gewerkschaft,0,NA,NA,NA
+Umwelt,Umweltschutz,0,NA,NA,NA
+Industrie,Industrie,0,NA,NA,NA
+Energie,Energieunternehmen,0,NA,NA,NA
+Wissenschaft,Wissenschaft,0,NA,NA,NA
+Regional,Regionalvertreter,0,NA,NA,NA
+CDU,CDU,0,NA,NA,NA
+CSU,CSU,0,NA,NA,NA
+SPD,SPD,0,NA,NA,NA
+Gruene,Gruene,0,NA,NA,NA
